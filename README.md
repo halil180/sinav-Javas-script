@@ -1,1 +1,1 @@
-# sinav-Javas-script
+# sinav-Java-script
